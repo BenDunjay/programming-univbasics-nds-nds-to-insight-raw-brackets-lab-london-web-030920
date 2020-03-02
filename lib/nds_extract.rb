@@ -24,7 +24,7 @@ def directors_totals(nds)
   i+=1
 
 end
-
+binding.pry
 totals_hash
 end
 
